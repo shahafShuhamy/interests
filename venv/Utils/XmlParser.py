@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-import Utils.Logger as Logger
+import programUtils.Logger as Logger
 
 class XmlParser():
     logger = None

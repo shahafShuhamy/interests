@@ -1,13 +1,11 @@
-import urllib.request as client
-from urllib.parse import urlparse, urlencode
-
+import requests
 """
 simple get Request with params option
 """
 def Get(baseUrl, params):
     if(params):
-        url = client.urlopen(baseUrl + '?' + urlencode(params))
+        response = requests.get(baseUrl + '?', params)
     else:
-        url = client.urlopen(baseUrl)
-    result = url.read().decode("utf-8")
+        response = requests.get(baseUrl)
+    result = response.content.decode("utf-8")
     return result

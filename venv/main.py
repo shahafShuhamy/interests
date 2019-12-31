@@ -1,12 +1,12 @@
 from Interests.Prime import Prime
-from Utils.Mailer import Mailer
 from Utils.Logger import Logger
+from Utils.Mailer import Mailer
 import time
 
 def getPrimeInterest():
     primeGetter = Prime()
     primeInterest = primeGetter.getPrime()
-    log("prime content: "+primeInterest)
+    log(primeInterest)
     return primeInterest
 
 def sendMail(content, htmlFlag, nextUpdateParam):
@@ -14,15 +14,16 @@ def sendMail(content, htmlFlag, nextUpdateParam):
     log('mailing to mailing list')
     mailer.sendMail(content, htmlFlag, nextUpdateParam)
 
-def getNextUpdate():
+def getNextUpdate(primeTable):
     primeGetter = Prime()
-    nextUpdate = primeGetter.getNextUpdate()
+    nextUpdate = primeGetter.getNextUpdate(primeTable)
+    return nextUpdate
 
 def main():
     try:
         primeTable = getPrimeInterest()
-        nextUpdate = getNextUpdate()
-        sendMail(primeTable, True, nextUpdate)
+        nextUpdateToMail = getNextUpdate(primeTable)
+        sendMail(primeTable, True, nextUpdateToMail)
     except Exception as e:
         print(e)
 

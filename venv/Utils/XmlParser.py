@@ -1,11 +1,10 @@
 import xml.etree.ElementTree as ET
-import programUtils.Logger as Logger
+import Utils.Logger as Logger
 
 class XmlParser():
     logger = None
     def __init__(self):
-        self.logger = Logger()
-        pass
+        self.logger = Logger.Logger()
 
     def findTagInString(self, str, whatToSearch):
         self.log('searching for tag: ' + whatToSearch +'in the string: \n' + str)

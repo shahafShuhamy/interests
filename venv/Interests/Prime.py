@@ -21,7 +21,7 @@ class Prime():
               '_': '1557755447808'}
         params['CqfDateFrom'] = time.strftime("%d/%m/%Y")
         params['CqfDateTo'] = '01/01/'+time.strftime("%Y")
-        self.log("Today : " + dateToday + ", First date of the Year " + startOfYear)
+        # self.log("Today : " + dateToday + ", First date of the Year " + startOfYear)
         # add html and body tags to make this an HTML.
         return "<html><body>" + ClientGet(baseUrl, params) + "</body></html>"
 
@@ -29,7 +29,7 @@ class Prime():
     this method return a string with a date
     date is the next interests table will be updated
     """
-    def getNextUpdate(self):
+    def getNextUpdate(self, primeTable):
         self.log('getting next Update from xml...')
         xmlUrl = "https://www.boi.org.il/HE/BoiLatestPublication.xml"
         xmlParser = XmlParser()

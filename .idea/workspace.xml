@@ -1,95 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c38d8b97-8363-4694-9969-d9ebe0d23697" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="c38d8b97-8363-4694-9969-d9ebe0d23697" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Mordgage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mordgage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Interests/Prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Interests/Prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Utils/Mailer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Utils/Mailer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Utils/XmlParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Utils/XmlParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/httpClient/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/httpClient/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="XmlParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Utils/XmlParser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestFile.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Utils/TestFile.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Utils/Logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mailer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Utils/Mailer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/httpClient/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prime.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Interests/Prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,68 +27,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/venv/http/client.py" />
-        <option value="$PROJECT_DIR$/venv/Utils/Logger.py" />
-        <option value="$PROJECT_DIR$/venv/Utils/Test.xml" />
-        <option value="$PROJECT_DIR$/venv/httpClient/client.py" />
-        <option value="$PROJECT_DIR$/venv/main.py" />
-        <option value="$PROJECT_DIR$/venv/Interests/Prime.py" />
-        <option value="$PROJECT_DIR$/venv/Utils/XmlParser.py" />
-        <option value="$PROJECT_DIR$/venv/Utils/Mailer.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
-  </component>
+  <component name="ProjectId" id="1VkB3lcurmDDuOQgYBRLRsFMo1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Mordgage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mordgage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mordgage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mordgage" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mordgage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Prime">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sshohamy\PycharmProjects\interests\venv\Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="Prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mordgage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +62,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="XmlParser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mordgage" />
@@ -198,6 +83,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mordgage" />
@@ -209,13 +97,16 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.main" />
@@ -224,11 +115,23 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.Prime" />
         <item itemvalue="Python.XmlParser" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -243,138 +146,89 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298292" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3298292" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39947438" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/main.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/Utils/XmlParser.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/Interests/Prime.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="18" />
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="254" column="30" lean-forward="true" selection-start-line="254" selection-start-column="30" selection-end-line="254" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="1329" column="25" lean-forward="true" selection-start-line="1329" selection-start-column="25" selection-end-line="1329" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/smtplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="872" column="43" selection-start-line="872" selection-start-column="43" selection-end-line="872" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Utils/TestFile.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/httpClient/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Utils/Logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Interests/Prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Utils/XmlParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Utils/Mailer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="460" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577795432209">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="460" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577795432209" />
+    <state x="730" y="155" key="#main" timestamp="1577795131276">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="2630" y="166" key="#main/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787191068" />
+    <state x="730" y="155" key="#main/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577795131276" />
+    <state width="955" height="466" key="DebuggerActiveHint" timestamp="1577800066465">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="955" height="466" key="DebuggerActiveHint/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800066465" />
+    <state x="790" y="296" key="FileChooserDialogImpl" timestamp="1577795359576">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="2691" y="307" key="FileChooserDialogImpl/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787103048" />
+    <state x="790" y="296" key="FileChooserDialogImpl/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577795359576" />
+    <state width="1806" height="295" key="GridCell.Tab.0.bottom" timestamp="1577808539926">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.bottom/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.0.bottom/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690786" />
+    <state width="1806" height="295" key="GridCell.Tab.0.bottom/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800689817" />
+    <state width="1806" height="295" key="GridCell.Tab.0.bottom/93.0.1827.1080@93.0.1827.1080" timestamp="1577808539926" />
+    <state width="1806" height="295" key="GridCell.Tab.0.center" timestamp="1577808539926">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.center/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.0.center/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690786" />
+    <state width="1806" height="295" key="GridCell.Tab.0.center/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800689817" />
+    <state width="1806" height="295" key="GridCell.Tab.0.center/93.0.1827.1080@93.0.1827.1080" timestamp="1577808539926" />
+    <state width="1806" height="295" key="GridCell.Tab.0.left" timestamp="1577808539926">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.left/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.0.left/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690786" />
+    <state width="1806" height="295" key="GridCell.Tab.0.left/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800689817" />
+    <state width="1806" height="295" key="GridCell.Tab.0.left/93.0.1827.1080@93.0.1827.1080" timestamp="1577808539926" />
+    <state width="1806" height="295" key="GridCell.Tab.0.right" timestamp="1577808539926">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.right/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.0.right/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690786" />
+    <state width="1806" height="295" key="GridCell.Tab.0.right/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800689817" />
+    <state width="1806" height="295" key="GridCell.Tab.0.right/93.0.1827.1080@93.0.1827.1080" timestamp="1577808539926" />
+    <state width="1806" height="304" key="GridCell.Tab.1.bottom" timestamp="1577800603255">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.bottom/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.1.bottom/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690787" />
+    <state width="1806" height="304" key="GridCell.Tab.1.bottom/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800603255" />
+    <state width="1806" height="304" key="GridCell.Tab.1.center" timestamp="1577800603254">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.center/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.1.center/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690787" />
+    <state width="1806" height="304" key="GridCell.Tab.1.center/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800603254" />
+    <state width="1806" height="304" key="GridCell.Tab.1.left" timestamp="1577800603254">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.left/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.1.left/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690787" />
+    <state width="1806" height="304" key="GridCell.Tab.1.left/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800603254" />
+    <state width="1806" height="304" key="GridCell.Tab.1.right" timestamp="1577800603255">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.right/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787852354" />
+    <state width="1837" height="363" key="GridCell.Tab.1.right/93.0.1827.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1577792690787" />
+    <state width="1806" height="304" key="GridCell.Tab.1.right/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577800603255" />
+    <state x="2001" y="313" key="SettingsEditor" timestamp="1577795413320">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2001" y="313" key="SettingsEditor/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577795413320" />
+    <state width="921" height="548" key="XDebugger.FullValuePopup" timestamp="1577797999993">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="921" height="548" key="XDebugger.FullValuePopup/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577797999993" />
+    <state x="707" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1577795056766">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="2606" y="376" key="com.intellij.ide.util.TipDialog/3933.-1.1827.1080/93.0.1827.1080/1982.11.1858.1080@1982.11.1858.1080" timestamp="1577787394519" />
+    <state x="707" y="365" key="com.intellij.ide.util.TipDialog/93.0.1827.1080/1982.0.1858.1080@93.0.1827.1080" timestamp="1577795056766" />
   </component>
 </project>

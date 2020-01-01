@@ -6,7 +6,7 @@ import smtplib
 class Mailer():
     server = None
     message = ""
-    emails = ["email"]
+    emails = ["Shahaf761@gmail.com"]
     logger = Logger()
 
     def __init__(self):
@@ -20,13 +20,15 @@ class Mailer():
             self.message = MIMEText(message)
         self.message['Subject'] = 'Prime Interest For this Month, Next Update At '+nextUpdateParam
         self.message['From'] = 'PrimeService - Auto Generated'
-        self.message['To'] = self.emails
-        self.server = smtplib.SMTP('smtp.gmail.com', 587, "email", timeout=120)
-        self.server.ehlo()
+        self.message['To'] = ','.join(self.emails)
+        self.server = smtplib.SMTP('smtp.gmail.com', 587)
+        # self.server.ehlo()
         self.server.starttls()
         self.server.ehlo()
-        self.server.login('email', 'password')
-        self.server.sendmail("emailFrom", self.emails, self.message.as_string())
+        self.server.login('Shahaf761@gmail.com', 'ikiwrwtovszgxyik')
+        print('aftrer login and before send - message:')
+        print(self.message.as_string())
+        self.server.sendmail("securesally@gmail.com", self.emails, self.message.as_string())
         self.server.close()
         pass
 

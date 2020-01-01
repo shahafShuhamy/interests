@@ -19,7 +19,8 @@ class Prime():
         baseUrl = "https://www.boi.org.il/he/BankingSupervision/Data/_layouts/boi/handlers/WebPartHandler.aspx"
         params = {'wp': 'ItemsAggregator', 'PageId': '150', 'CqfDateFrom': '', 'CqfDateTo': '',
               '_': '1557755447808'}
-        params['CqfDateFrom'] = time.strftime("%d/%m/%Y")
+        year = str(int(time.strftime("%Y")) - 1)
+        params['CqfDateFrom'] = time.strftime("%d/%m/") + year
         params['CqfDateTo'] = '01/01/'+time.strftime("%Y")
         # self.log("Today : " + dateToday + ", First date of the Year " + startOfYear)
         # add html and body tags to make this an HTML.

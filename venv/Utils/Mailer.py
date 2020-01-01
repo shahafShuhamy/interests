@@ -6,7 +6,7 @@ import smtplib
 class Mailer():
     server = None
     message = ""
-    emails = ["Shahaf761@gmail.com"]
+    emails = ["myMail"]
     logger = Logger()
 
     def __init__(self):
@@ -25,7 +25,7 @@ class Mailer():
         # self.server.ehlo()
         self.server.starttls()
         self.server.ehlo()
-        self.server.login('Shahaf761@gmail.com', 'ikiwrwtovszgxyik')
+        self.server.login('myMail', 'ikiwrwtovszgxyik')
         print('aftrer login and before send - message:')
         print(self.message.as_string())
         self.server.sendmail("securesally@gmail.com", self.emails, self.message.as_string())
